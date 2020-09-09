@@ -1,4 +1,4 @@
-//gruntfile.js 参考配置
+
 const path = require('path');
 const sass = require('sass');
 
